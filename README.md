@@ -1,2 +1,3 @@
 # loan-page
- this page is made using html & CSS
+
+this page is made using HTML & CSS
